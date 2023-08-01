@@ -1,0 +1,2 @@
+# moa
+Magang Online Amikom
